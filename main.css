@@ -5,6 +5,9 @@ h2 {
 
 .container-1{
     border: 1px solid #000;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .flex-box-container-1 {
